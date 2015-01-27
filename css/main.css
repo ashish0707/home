@@ -723,7 +723,10 @@ ul.tag-cloud li {
   line-height: 50px;
   color: #fff;
 }
-.navbar-inverse .navbar-nav {
+
+
+
+{
   margin-top: 20px;
 }
 .navbar-inverse .navbar-nav > li > a {
@@ -738,10 +741,10 @@ ul.tag-cloud li {
 .navbar-inverse .navbar-nav > .open > a,
 .navbar-inverse .navbar-nav > .open > a:hover,
 .navbar-inverse .navbar-nav > .open > a:focus {
-  background-color: #ffffff;
+  background-color: #f18;
 }
 .navbar-inverse .navbar-nav .dropdown-menu {
-  background-color: #ffffff;
+  background-color: #f18;
   -webkit-box-shadow: none;
   -moz-box-shadow: none;
   box-shadow: none;
