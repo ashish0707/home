@@ -738,7 +738,7 @@ ul.tag-cloud li {
 .navbar-inverse .navbar-nav > .open > a,
 .navbar-inverse .navbar-nav > .open > a:hover,
 .navbar-inverse .navbar-nav > .open > a:focus {
-  background-color: #f18;
+  background-color: #fff;
 }
 .navbar-inverse .navbar-nav .dropdown-menu {
   background-color: #f18;
