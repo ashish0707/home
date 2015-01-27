@@ -284,7 +284,7 @@ body > section {
   background-color: #bdc3c7;
 }
 .wet-asphalt {
-  background-color: #800000;
+  background-color: #fff;
 }
 
 .mycolor{
@@ -738,7 +738,7 @@ ul.tag-cloud li {
 .navbar-inverse .navbar-nav > .open > a,
 .navbar-inverse .navbar-nav > .open > a:hover,
 .navbar-inverse .navbar-nav > .open > a:focus {
-  background-color: #fff;
+  background-color: #f18;
 }
 .navbar-inverse .navbar-nav .dropdown-menu {
   background-color: #f18;
