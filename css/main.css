@@ -284,7 +284,7 @@ body > section {
   background-color: #bdc3c7;
 }
 .wet-asphalt {
-  background-color: #FFEAB3;
+  background-image: url("actionbar.jpg");
 }
 
 .mycolor{
@@ -714,8 +714,17 @@ ul.tag-cloud li {
 .btn-social:hover {
   color: #fff;
 }
+
+
+
+.navbar-inner {
+  
+  background-image:url("actionbar.jpg")
+}
+
 .navbar-inverse {
   border: none;
+  border-radius: 0;
 }
 .navbar-inverse .navbar-brand {
   font-family: 'Bubbler One', sans-serif;
