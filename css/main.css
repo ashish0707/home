@@ -66,7 +66,7 @@ hr {
 }
 a:hover,
 a:focus {
-  color: #d9534f;
+  color: #FFEAB3;
   text-decoration: none;
   outline: none;
 }
@@ -289,7 +289,7 @@ body > section {
   background-color: #bdc3c7;
 }
 .wet-asphalt {
-  background-image: url("actionbar.jpg");
+   color: #610301;
 }
 
 .mycolor{
@@ -297,7 +297,7 @@ background-color: #800000;
 }
 
 .wet-asphalt a:not(.btn) {
-  color: #bdc3c7;
+  color: #610301;
 }
 .wet-asphalt a:not(.btn):hover {
   color: #d9534f;
@@ -730,6 +730,7 @@ ul.tag-cloud li {
 .navbar-inverse {
   border: none;
   border-radius: 0;
+  background-color : #610301;
 }
 .navbar-inverse .navbar-brand {
   font-family: 'Bubbler One', sans-serif;
@@ -752,10 +753,10 @@ ul.tag-cloud li {
 .navbar-inverse .navbar-nav > .open > a,
 .navbar-inverse .navbar-nav > .open > a:hover,
 .navbar-inverse .navbar-nav > .open > a:focus {
-  background-color: #F1C969;
+  background-color: #610301;
 }
 .navbar-inverse .navbar-nav .dropdown-menu {
-  background-color: #000;
+  background-color: #FFEAB3;
   -webkit-box-shadow: none;
   -moz-box-shadow: none;
   box-shadow: none;
@@ -765,7 +766,7 @@ ul.tag-cloud li {
 }
 .navbar-inverse .navbar-nav .dropdown-menu > li > a {
   padding: 8px 15px;
-  color: #bdc3c7;
+  color: #610301;
 }
 .navbar-inverse .navbar-nav .dropdown-menu > li:hover > a,
 .navbar-inverse .navbar-nav .dropdown-menu > li:focus > a,
